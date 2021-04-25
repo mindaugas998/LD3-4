@@ -1,4 +1,6 @@
-- v0.1
+- the program has a console menu programmed within itself, so all tasks can be completed via that menu.
+
+- - v0.1
 
 - added option to add a student
 
