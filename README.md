@@ -1,7 +1,7 @@
 # LD3-4
 integruotų programavimo aplinkų laboratoriniai darbai
 
-release v0.4
+- v0.4
 
 - added option to generate 4 files with 10,000, 100,000, 1,000,000 and 10,000,000 records.
 - add option to split generated file into two: a list of students that failed and a list of students that passed.
