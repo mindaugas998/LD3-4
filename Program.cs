@@ -6,7 +6,7 @@ using System.Diagnostics;
 using System.Linq;
 
 
-namespace LD3_4_v0._2
+namespace LD3_4_v1.0
 {
     class Student
     {
