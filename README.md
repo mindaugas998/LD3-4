@@ -3,7 +3,7 @@ integruotų programavimo aplinkų laboratoriniai darbai
 
 - release v0.5
 
-- List<>
+List<>
 
 - Time elapsed to divide 10k records: 14 ms
 -Time elapsed to output divided 10k records: 7 ms
@@ -18,7 +18,7 @@ integruotų programavimo aplinkų laboratoriniai darbai
 - Time elapsed to output divided 10 million records: 5897 ms
 
 
-- Queue<>
+Queue<>
 
 - Time elapsed to divide 10k records: 13 ms
 - Time elapsed to output divided 10k records: 8 ms
@@ -32,7 +32,7 @@ integruotų programavimo aplinkų laboratoriniai darbai
 - Time elapsed to divide 10 million records: 18027 ms
 - Time elapsed to output divided 10 million records: 5797 ms
 
-- LinkedList<>
+LinkedList<>
 
 - Time elapsed to divide 10k records: 15 ms
 - Time elapsed to output divided 10k records: 8 ms
